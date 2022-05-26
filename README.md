@@ -7,5 +7,3 @@
 [Reading1markdown](reading1markdown.md)
 
 [Reading2coders](reading2coders.md)
-
-
