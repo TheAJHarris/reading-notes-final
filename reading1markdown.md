@@ -1,0 +1,3 @@
+Markdown, in it’s most simplistic description, is a tool for communicating plain english, to me at least. You can utilize characters to mimic writing tools you would use with a pen and paper. For instance, the # symbol is a sizing tool. A single # symbol gives you a large font, similar to something you would use in a heading. Each subsequent # makes the font smaller to a degree, allowing you to adjust easily. 
+
+Aside from size, you can perform many of the functions you would see in a word document, you can bold with *, you can italicize with -, there are a myriad of uses for markdown. I see it being extra helpful when documenting notes for your code, as plain text would be monotonous to read. 
